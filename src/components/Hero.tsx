@@ -10,7 +10,7 @@ export default function Hero() {
         <div className="animate-fadeIn">
           <div className="w-48 h-48 rounded-full border-4 border-blue-400 overflow-hidden mb-8 mx-auto shadow-xl hover:scale-105 transition-transform duration-300">
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+              src="./assets/pic.jpg"
               alt="Mukarram Bambot"
               className="w-full h-full object-cover"
             />
